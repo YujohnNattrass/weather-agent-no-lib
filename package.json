@@ -14,13 +14,13 @@
   "type": "module",
   "dependencies": {
     "@ai-sdk/openai": "^1.3.24",
-    "@mastra/core": "latest",
-    "@mastra/loggers": "latest",
+    "@mastra/core": "0.0.0-cloud-storage-adapter-20251106204059",
+    "@mastra/loggers": "0.0.0-cloud-storage-adapter-20251106204059",
     "zod": "^3.25.76"
   },
   "devDependencies": {
     "@types/node": "^22.15.29",
-    "mastra": "latest",
+    "mastra": "0.0.0-cloud-storage-adapter-20251106204059",
     "typescript": "^5.8.3"
   }
 }
